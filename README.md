@@ -23,7 +23,7 @@ showing whether hair loss is more common in certain age groups.
 ### who experienced weight loss, it suggests a higher likelihood of hair loss due to weight loss.
 ##
 ## Comparison of Hair Loss by Environmental Factors
-![image](https://github.com/user-attachments/assets/14358806-0c4b-422e-b15a-c24883e17b25)
+
 ### No Hair Loss (0)	Hair Loss (1)
 ### 0 (No Exposure)	49.29%	50.71%
 ### 1 (Exposed)	51.18%	48.82%
