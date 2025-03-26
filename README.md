@@ -11,6 +11,7 @@ showing whether hair loss is more common in certain age groups.
 ### # Smoking Status	No Hair Loss (0)	Hair Loss (1)
 ### 0 (Non-Smokers)	47.29%	52.71%
 ### 1 (Smokers)	52.99%	47.01%
+##
 ## Comparison of Hair Loss by Weight Loss
 ![image](https://github.com/user-attachments/assets/e8246451-3d3c-4dbd-8f56-c1867744c159)
 ### Weight Loss	No Hair Loss (0)	Hair Loss (1)
@@ -21,4 +22,14 @@ showing whether hair loss is more common in certain age groups.
 ### The chart helps identify whether weight loss is associated with increased hair loss. If the red portion is significantly larger for those 
 ### who experienced weight loss, it suggests a higher likelihood of hair loss due to weight loss.
 ##
+## Comparison of Hair Loss by Environmental Factors
 ![image](https://github.com/user-attachments/assets/14358806-0c4b-422e-b15a-c24883e17b25)
+### No Hair Loss (0)	Hair Loss (1)
+### 0 (No Exposure)	49.29%	50.71%
+### 1 (Exposed)	51.18%	48.82%
+### This stacked bar chart illustrates the relationship between environmental factors and hair loss. The x-axis represents exposure to environmental 
+### factors (0 = No exposure, 1 = Exposed), while the y-axis shows the proportion of individuals experiencing hair loss.
+### Coolwarm colormap visually differentiates individuals with and without hair loss.
+### The chart helps determine whether environmental factors (such as pollution, UV exposure, or chemicals) contribute to an increased risk 
+### of hair loss. If the proportion of hair loss is significantly higher in the exposed group, it suggests a strong correlation between 
+### environmental factors and hair health.
