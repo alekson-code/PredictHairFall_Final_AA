@@ -12,3 +12,4 @@ showing whether hair loss is more common in certain age groups.
 ### 0 (Non-Smokers)	47.29%	52.71%
 ### 1 (Smokers)	52.99%	47.01%
 
+![image](https://github.com/user-attachments/assets/e8246451-3d3c-4dbd-8f56-c1867744c159)
